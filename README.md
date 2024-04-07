@@ -3,11 +3,11 @@ Hello. I'm Jieun Choi.
 Welcome to my GitHub site!
 
 ## Career
-- 영남대학교 재학중
+- Yeungnam University
 
 ## Major
-- Statistics
-- Computer Science and Engineering
+- Statistics(major)
+- Computer Science and Engineering(double major)
 
 ## Interest 
 - mathematics
